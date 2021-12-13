@@ -19,3 +19,7 @@ https://docs.soliditylang.org/en/v0.8.10/
 ```
 
 [Balance](https://etherscan.io/address/0x64dfec81c2230d99Fa63A254915bB70a7F91d6D0) 💰
+
+## Blockchain 101
+
+https://www.youtube.com/watch?v=_160oMzblY8
